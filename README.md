@@ -1,5 +1,8 @@
-## Writeup
+# **Lane Finding**
 
+## Computer Vision to Build a Lane Finding Algorithm
+
+### Using a images/video via a cameara as the input
 
 ---
 
@@ -38,11 +41,13 @@ The code is located in Ipthon Notebook located in "./Advanced_Lane_Finding.ipynb
 [video2]: ./challenge_video_output.mp4 "Challenge Video"
 [video3]: ./harder_challenge_video_output.mp4 "Harder Challenge Video"
 
-## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
-
-### Here I will consider the rubric points individually and describe how I addressed each point in my implementation.  
-
 ---
+### README
+
+- The algorithm successfuly draws on the detected lane as seen in the below video and here is a link to my [project code](https://github.com/ianleongg/Advance-Lane-Finding/blob/master/Advanced_Lane_Finding.ipynb)
+
+![alt text][video1]
+
 ### Steps used to achieve lane detection.
 
 #### 1.Compute the camera calibration matrix and distrotion coefficients given a set of chessboard images.
