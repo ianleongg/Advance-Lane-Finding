@@ -35,6 +35,7 @@ The code is located in Ipthon Notebook located in "./Advanced_Lane_Finding.ipynb
 [image9]: ./output_images/5.search_from_previous_frame.jpg "Search from Previous Polynomial"
 [image10]: ./output_images/6.lane_detected.jpg "Lane Detected"
 [image11]: ./output_images/7.final.jpg "Final Output"
+[image12]: ./output_images/index.png "Before After"
 
 
 [video1]: ./project_video_output.mp4 "Video"
@@ -44,9 +45,9 @@ The code is located in Ipthon Notebook located in "./Advanced_Lane_Finding.ipynb
 ---
 ### README
 
-- The algorithm successfuly draws on the detected lane as seen in the below video and here is a link to my [project code](https://github.com/ianleongg/Advance-Lane-Finding/blob/master/Advanced_Lane_Finding.ipynb)
+- The before and after of the algorithm successfuly drawing on detected lane as seen below and here is a link to my [project code](https://github.com/ianleongg/Advance-Lane-Finding/blob/master/Advanced_Lane_Finding.ipynb).
 
-![alt text][video1]
+![alt text][image12]
 
 ### Steps used to achieve lane detection.
 
