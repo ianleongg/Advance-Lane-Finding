@@ -63,9 +63,13 @@ I start by preparing "object points", which will be the (x, y, z) coordinates of
 
 I applied this distortion correction to both the chessboard image and test image using the `cv2.undistort()` function and obtained this result: 
 
+**BEFORE:**
 ![alt text][image1]
+**AFTER:**
 ![alt text][image3]
+**BEFORE:**
 ![alt text][image4]
+**AFTER:**
 ![alt text][image5]
 
 
