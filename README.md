@@ -1,4 +1,4 @@
-# **Lane Finding**
+# **Advanced Lane Finding**
 
 ## Computer Vision to Build a Lane Finding Algorithm
 
